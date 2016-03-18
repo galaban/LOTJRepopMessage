@@ -4,11 +4,11 @@ This plugin will pay attention to the Legend of the Jedi mud and send a "-->Repo
 
 ## To use
 
-repop enable - Turns the repop message on and off
-repop sound  - turns the default sound on and off
-repop sound here - Turns on and off the planetary overrides
-repop picksound  - picks a sound file to play when the repop occurs
-repop playnow - plays the currently select sound file.  To test it out.
+     repop enable - Turns the repop message on and off
+     repop sound  - turns the default sound on and off
+     repop sound here - Turns on and off the planetary overrides
+     repop picksound  - picks a sound file to play when the repop occurs
+     repop playnow - plays the currently select sound file.  To test it out.
 
 ###Regarding planetary overrides
 
