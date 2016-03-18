@@ -488,6 +488,7 @@ function setEnabled()
 end
 
 function sendRepopNote()
+    BroadcastPlugin(126, "Repop")
     if (isEnabled() == false) then
         return
     end
